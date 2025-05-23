@@ -1,0 +1,44 @@
+Day - 3(Load balance)
+
+
+Load balance 
+
+	Distributing network traffic.  -> standard and gate way 
+
+process
+
+	Linux -> command
+	search -> load balancer and create standard
+	  -- Type - Public 
+	Add a frontend -> create public Ip - enter name and save
+	Go to Backend -> add a backend - enter name 
+	review + create 
+
+	after deploy in menu go to backend pool -> add a pool
+
+   -- click Ip address
+
+
+Container 
+
+To run applications without managing servers or virtual machines it fast light weight and easy to use.
+run quickly
+	no management 
+	test and develop 
+	isolated environment
+
+
+Storage Account 
+	A Storage account in azure is a place to store your data like files,photo,videos and more in the cloud.
+
+TYPES :
+	-Blob = Binary Large Objects.
+	-Files
+	-Table
+	-Queue
+	-Flip and disk
+
+
+IIS
+
+	IIS is a web server software developed by Microsoft for a windows operating system. It is used to host ,deploy and manage website and web application. It is a core component of the windows platform.

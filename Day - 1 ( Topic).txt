@@ -1,0 +1,116 @@
+Day - 1 ( Topic)
+ 
+ *Introduction about virtualization
+ *Introduction about Cloud Computing
+ *Overview of Azure
+ *History and Evolution of Azure
+
+
+
+
+VIRTUALIZATION
+	-Introduction
+			*process of simulating a Hardware & Software resource such as server ,storage or network in virtual or 		software environment.
+			*it allows efficient utilization of resource ,improved scalability ,enhanced Flexibility and cost 		savings in IT infrastructure.
+
+	-Types of Virtualization
+		-Server Virtualization.
+		-Storage Virtualization.
+		-Network Virtualization.
+
+	-Virtualization process
+			-Basically one server can take place of the three  and all the application and run their different 		operating systems this is what virtualization does. 
+
+	-Machine 
+			-it create  virtual hardware by cloning physical hardware.
+			-the hypervisor uses virtual hardware to create   a VM.A VM is a set of files.
+			-with a hypervisor and VM ,one computer can run multiple OS simultaneously.
+
+	-Hypervisor
+			-the sw that creates and runs the virtualization is called hypervisor.
+			-it allocates  and controls the sharing of machine resources such as storage space.
+				Storage space.
+				RAM.
+				CPU.
+			-two types of hypervisor is known as TYPE1 hypervisor and TYPE2 hypervisor.
+
+	-Benefits
+		-Cost savings.
+		-Increased Flexibility.
+		-Improved Management.
+		-Enhanced Security.
+		-Business Continuity.
+---------------------------------------------------------------------------------------------------------------------
+
+	=Hypervisor:
+		TYPE1 - BARE METAL SERVER.
+			-that means there is no existing operating systems  or any other software on the machine.
+			-used for hardware virtualization.
+			-to create VM with TYPE1
+				-Server case 
+				-Hardware such as
+				 Motherboard,
+
+	==TYPE1 HYPERVISOR
+		-After build our server hardware next step is to install type1 hypervisor on top of ours baremetal server.
+		-so we can create and manage VM's.
+		-the hypervisor will allocates the server hardware resources installing different OS  and installing 			 different applications.
+		-Mainly used in Enterprise DATA CENTER.
+		
+	Ex for TYPE1
+		-VMware ESXi ,Citrix Xen Server , Microsoft Hyper -V.
+
+
+	==TYPE2 HYPERVISOR
+		-TYPE1 Hypervisor installed and runs on the top of an existing Operating System.					-Typically used in personal computer.
+		-Mainly used to test new software for research purposes.
+		-Try out and test different operating system in an existing system.
+		
+	Ex for TYPE2
+		-Oracle VirtualBox , Microsoft Virtual PC , VM workstation.
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+	Steps:
+	TPYE2 Virtual box(oracle )
+		1. New 
+		2. Name : KRCE
+		3. other -> desktop -> file
+		4. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			

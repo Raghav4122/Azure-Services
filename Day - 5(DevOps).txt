@@ -1,0 +1,39 @@
+Day - 5(DevOps)
+
+
+DevOps :
+
+	it is a platform which used to manage project development life cycle. it is a combination of various tools,concepts,and practices.
+
+Different DevOps platform:
+	*Azure DevOps.
+	*AWS
+	*Google cloud
+	*Github
+	*JIRA, JENKINS
+
+Types of Azure DevOps :
+	*Azure DevOps Services(cloud)
+	*Azure DevOps Servere(On-Prem)
+
+Azure DevOps Components : 
+	-Azure Board
+	-Azure Repo
+	-Azure pipelines
+	-Azure Test Plans
+	-Azure Artifacts.
+
+ADF (Azure Data Factory)
+	it is acloud based ETL(Extract Transform Load).It acts like an orchestrator.
+
+
+
+
+
+
+
+
+
+
+
+

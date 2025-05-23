@@ -1,0 +1,65 @@
+Day - 2 (Cloud)
+
+
+Cloud Computing: 
+	 It is the on-demand delivery of compute, database storage, application and other IT resources through a cloud services platform via the internet with pay as you go pricing.
+
+Cloud needs:
+	Backup Server, Switch, Firewall, Storage Server, Router.
+
+
+Silver Lining In The Cloud: 
+	* How about provisioning (renting) resources when you want them and releasing them back when you do not need them?
+		- On=demand resource provisioning
+		- Also called Elasticity.
+
+Cloud - Advantages:
+
+	- Trade "Capital expense" for "Variable expense".
+	- Benefit from massive economies of scale.
+	- Stop guessing capacity.
+	- Increase speed and agility.
+	- Stop spending money running and maintaining data centers.
+-	- "Go Global" in minutes.
+
+Types of Model in Cloud :
+	* Service
+		- SaaS = Software as a Service.
+		- PaaS = Platform as a Service.
+		- IaaS = Infrastructure as a Service.
+	* Deployment model.
+		- Public
+		- Private
+		- Hybrid
+		- Multi.
+
+2008-October project.
+2010-February windows Azure -> after 4 years 2014 - March Microsoft Azure launch 3 type of services.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+BUDGET
+
+1. Search budget
+2. Select add
+3. Set month
+4. Alert set
+5. Create
+
+RESOURCE GROUPS
+
+	A fundamental unit for organising and managing cloud resources.
+
+1. Search Resource groups.
+2. Select 
+
+
+
+
+
+
+
+
+
+
+
